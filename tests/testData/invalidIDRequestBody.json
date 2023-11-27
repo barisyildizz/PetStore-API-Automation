@@ -1,0 +1,18 @@
+{
+  "id": "invalid_id",
+  "category": {
+    "id": 0,
+    "name": "updated"
+  },
+  "name": "tarçın",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 1533,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}

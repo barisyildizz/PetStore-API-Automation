@@ -1,0 +1,19 @@
+{
+    "id": 126474421435,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "duman",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  }
+  
